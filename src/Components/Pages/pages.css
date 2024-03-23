@@ -1,0 +1,93 @@
+#container
+{
+    background-image: url(../../Components/images/back.avif);
+    height: 60vh;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position-y:-175px ;
+    position: relative;
+}
+.sub-container ul
+{
+    display: flex;
+    height: 80px;
+    align-items: center;
+    justify-content: space-around;
+    width: 40%;
+   float: right;  
+}
+.sub-container ul li{
+    list-style: none;
+    margin-right: 10px;
+}
+
+.sub-container ul a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.content-container
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 100px;
+    left: 350px;
+    text-align: center; 
+}
+.content
+{
+    margin: 20px;
+    color: aliceblue;
+    font-size: xx-small;
+}
+.input-container
+{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    border-radius: 10px;
+    height: 40px;
+
+}
+.first
+{
+    padding: 5px;
+   border-radius: 10px 0 0 10px;
+    width: 30%;
+    border: none;
+    border-right: 1px solid gray;
+}
+.second
+{
+    padding: 5px;
+    border-radius: 0 10px 10px 0;
+    width: 70%;
+    border: none;
+}
+.input-container input:nth-child(2)::placeholder
+{
+    font: 1rem;
+    text-align: center;
+}
+.input-container input:focus
+{
+    outline: none;
+}
+.cont
+{
+    display: flex;
+    margin: 1rem;
+    border: none;
+    overflow-x: scroll;
+}
+.cont::-webkit-scrollbar
+{
+    display: none;
+}
+.card-img-top
+{
+    height: 250px;
+    width: 320px;
+}

@@ -1,0 +1,284 @@
+[{
+    "resturants":"Meganas",
+    "availableDishes":[{
+        "dishname": "chicken biriyani",
+        "price":250,
+        "Foodimage":"https://glebekitchen.com/wp-content/uploads/2019/12/chickenbiryanibowltop-500x375.jpg"
+    },{
+        "dishname": "chicken boneless biriyani",
+        "price":200,
+        "Foodimage":"https://vismaifood.com/storage/app/uploads/public/63a/cb5/158/thumb__1200_0_0_0_auto.jpg",
+        "rating":4
+    },{
+        "dishname": "egg biriyani",
+        "price":200,
+        "Foodimage":"https://vaya.in/recipes/wp-content/uploads/2018/03/Egg-Biriyani.jpg",
+        "rating":4
+    },{
+        "dishname": "veg biriyani",
+        "price":200,
+        "Foodimage":"https://www.indianveggiedelight.com/wp-content/uploads/2020/04/veg-biryani-instant-pot.jpg",
+        "rating":4
+    },
+{
+    "dishname": "mutton biriyani",
+        "price":290,
+        "Foodimage":"https://media.istockphoto.com/id/469866881/photo/mutton-gosht-biryani.jpg?s=612x612&w=0&k=20&c=FH6dExVNp_hb9JtJCyGrmKAhPJwQo3UdlMC6gHCbVLg=",
+        "rating":4
+},{
+    "dishname": "chicken bone soup",
+        "price":150,
+        "Foodimage":"https://theketoqueens.com/wp-content/uploads/2018/11/Chicken-Bone-Broth-Soup-with-Rotisserie-Chicken-or-Leftover-Turkey-1.jpg",
+        "rating":4
+},{
+    "dishname": "chicken clear soup",
+        "price":140,
+        "Foodimage":"https://static.toiimg.com/thumb/58357074.cms?imgsize=259099&width=800&height=800",
+        "rating":4
+},{
+    "dishname": "mutton soup",
+        "price":200,
+        "Foodimage":"https://theindianclaypot.com/content/images/wp-content/uploads/2019/02/mutton-soup.jpg",
+        "rating":4
+},{
+    "dishname": "crab rasam",
+        "price":200,
+        "Foodimage":"https://jopreetskitchen.com/wp-content/uploads/2014/02/Crab-Rasam-DSC_0019-vignette-678x1024.jpg",
+        "rating":5
+},
+{
+    "dishname": "icecream",
+        "price":100,
+        "Foodimage":"https://www.julieseatsandtreats.com/wp-content/uploads/2020/06/Rainbow-Ice-Cream-14-of-16.jpg",
+        "rating":4
+}],
+    "closingTime":"9.00 AM",
+    "openingTime":"9.00 PM",
+    "resturantImage":"./imagesall/meghanas.jpg"
+},{
+    "resturants":"nagarguna",
+"availableDishes":[{
+    "dishname": "chicken biriyani",
+    "price":250,
+    "Foodimage":"https://glebekitchen.com/wp-content/uploads/2019/12/chickenbiryanibowltop-500x375.jpg"
+},{
+    "dishname": "chicken boneless biriyani",
+    "price":200,
+    "Foodimage":"https://vismaifood.com/storage/app/uploads/public/63a/cb5/158/thumb__1200_0_0_0_auto.jpg",
+    "rating":4
+},{
+    "dishname": "egg biriyani",
+    "price":200,
+    "Foodimage":"https://vaya.in/recipes/wp-content/uploads/2018/03/Egg-Biriyani.jpg",
+    "rating":4
+},{
+    "dishname": "veg biriyani",
+    "price":200,
+    "Foodimage":"https://www.indianveggiedelight.com/wp-content/uploads/2020/04/veg-biryani-instant-pot.jpg",
+    "rating":4
+},
+{
+"dishname": "mutton biriyani",
+    "price":290,
+    "Foodimage":"https://media.istockphoto.com/id/469866881/photo/mutton-gosht-biryani.jpg?s=612x612&w=0&k=20&c=FH6dExVNp_hb9JtJCyGrmKAhPJwQo3UdlMC6gHCbVLg=",
+    "rating":4
+},{
+"dishname": "chicken bone soup",
+    "price":150,
+    "Foodimage":"https://theketoqueens.com/wp-content/uploads/2018/11/Chicken-Bone-Broth-Soup-with-Rotisserie-Chicken-or-Leftover-Turkey-1.jpg",
+    "rating":4
+},{
+"dishname": "chicken clear soup",
+    "price":140,
+    "Foodimage":"https://static.toiimg.com/thumb/58357074.cms?imgsize=259099&width=800&height=800",
+    "rating":4
+},{
+"dishname": "mutton soup",
+    "price":200,
+    "Foodimage":"https://theindianclaypot.com/content/images/wp-content/uploads/2019/02/mutton-soup.jpg",
+    "rating":4
+},{
+"dishname": "crab rasam",
+    "price":200,
+    "Foodimage":"https://jopreetskitchen.com/wp-content/uploads/2014/02/Crab-Rasam-DSC_0019-vignette-678x1024.jpg",
+    "rating":5
+},
+{
+"dishname": "icecream",
+    "price":100,
+    "Foodimage":"https://www.julieseatsandtreats.com/wp-content/uploads/2020/06/Rainbow-Ice-Cream-14-of-16.jpg",
+    "rating":4
+}],
+"closingTime":"9.00 AM",
+"openingTime":"9.00 PM"
+},{
+
+"resturants":"biriyani zone",
+"availableDishes":[{
+    "dishname": "chicken biriyani",
+    "price":250,
+    "Foodimage":"https://glebekitchen.com/wp-content/uploads/2019/12/chickenbiryanibowltop-500x375.jpg"
+},{
+    "dishname": "chicken boneless biriyani",
+    "price":200,
+    "Foodimage":"https://vismaifood.com/storage/app/uploads/public/63a/cb5/158/thumb__1200_0_0_0_auto.jpg",
+    "rating":4
+},{
+    "dishname": "egg biriyani",
+    "price":200,
+    "Foodimage":"https://vaya.in/recipes/wp-content/uploads/2018/03/Egg-Biriyani.jpg",
+    "rating":4
+},{
+    "dishname": "veg biriyani",
+    "price":200,
+    "Foodimage":"https://www.indianveggiedelight.com/wp-content/uploads/2020/04/veg-biryani-instant-pot.jpg",
+    "rating":4
+},
+{
+"dishname": "mutton biriyani",
+    "price":290,
+    "Foodimage":"https://media.istockphoto.com/id/469866881/photo/mutton-gosht-biryani.jpg?s=612x612&w=0&k=20&c=FH6dExVNp_hb9JtJCyGrmKAhPJwQo3UdlMC6gHCbVLg=",
+    "rating":4
+},{
+"dishname": "chicken bone soup",
+    "price":150,
+    "Foodimage":"https://theketoqueens.com/wp-content/uploads/2018/11/Chicken-Bone-Broth-Soup-with-Rotisserie-Chicken-or-Leftover-Turkey-1.jpg",
+    "rating":4
+},{
+"dishname": "chicken clear soup",
+    "price":140,
+    "Foodimage":"https://static.toiimg.com/thumb/58357074.cms?imgsize=259099&width=800&height=800",
+    "rating":4
+},{
+"dishname": "mutton soup",
+    "price":200,
+    "Foodimage":"https://theindianclaypot.com/content/images/wp-content/uploads/2019/02/mutton-soup.jpg",
+    "rating":4
+},{
+"dishname": "crab rasam",
+    "price":200,
+    "Foodimage":"https://jopreetskitchen.com/wp-content/uploads/2014/02/Crab-Rasam-DSC_0019-vignette-678x1024.jpg",
+    "rating":5
+},
+{
+"dishname": "icecream",
+    "price":100,
+    "Foodimage":"https://www.julieseatsandtreats.com/wp-content/uploads/2020/06/Rainbow-Ice-Cream-14-of-16.jpg",
+    "rating":4
+}],
+"closingTime":"9.00 AM",
+"openingTime":"9.00 PM"
+},{
+
+"resturants":"dindugal Talapakati",
+"availableDishes":[{
+    "dishname": "chicken biriyani",
+    "price":250,
+    "Foodimage":"https://glebekitchen.com/wp-content/uploads/2019/12/chickenbiryanibowltop-500x375.jpg"
+},{
+    "dishname": "chicken boneless biriyani",
+    "price":200,
+    "Foodimage":"https://vismaifood.com/storage/app/uploads/public/63a/cb5/158/thumb__1200_0_0_0_auto.jpg",
+    "rating":4
+},{
+    "dishname": "egg biriyani",
+    "price":200,
+    "Foodimage":"https://vaya.in/recipes/wp-content/uploads/2018/03/Egg-Biriyani.jpg",
+    "rating":4
+},{
+    "dishname": "veg biriyani",
+    "price":200,
+    "Foodimage":"https://www.indianveggiedelight.com/wp-content/uploads/2020/04/veg-biryani-instant-pot.jpg",
+    "rating":4
+},
+{
+"dishname": "mutton biriyani",
+    "price":290,
+    "Foodimage":"https://media.istockphoto.com/id/469866881/photo/mutton-gosht-biryani.jpg?s=612x612&w=0&k=20&c=FH6dExVNp_hb9JtJCyGrmKAhPJwQo3UdlMC6gHCbVLg=",
+    "rating":4
+},{
+"dishname": "chicken bone soup",
+    "price":150,
+    "Foodimage":"https://theketoqueens.com/wp-content/uploads/2018/11/Chicken-Bone-Broth-Soup-with-Rotisserie-Chicken-or-Leftover-Turkey-1.jpg",
+    "rating":4
+},{
+"dishname": "chicken clear soup",
+    "price":140,
+    "Foodimage":"https://static.toiimg.com/thumb/58357074.cms?imgsize=259099&width=800&height=800",
+    "rating":4
+},{
+"dishname": "mutton soup",
+    "price":200,
+    "Foodimage":"https://theindianclaypot.com/content/images/wp-content/uploads/2019/02/mutton-soup.jpg",
+    "rating":4
+},{
+"dishname": "crab rasam",
+    "price":200,
+    "Foodimage":"https://jopreetskitchen.com/wp-content/uploads/2014/02/Crab-Rasam-DSC_0019-vignette-678x1024.jpg",
+    "rating":5
+},
+{
+"dishname": "icecream",
+    "price":100,
+    "Foodimage":"https://www.julieseatsandtreats.com/wp-content/uploads/2020/06/Rainbow-Ice-Cream-14-of-16.jpg",
+    "rating":4
+}],
+"closingTime":"9.00 AM",
+"openingTime":"9.00 PM"
+},{
+    "resturants":"emipre resturant",
+    "availableDishes":[{
+        "dishname": "chicken biriyani",
+        "price":250,
+        "Foodimage":"https://glebekitchen.com/wp-content/uploads/2019/12/chickenbiryanibowltop-500x375.jpg"
+    },{
+        "dishname": "chicken boneless biriyani",
+        "price":200,
+        "Foodimage":"https://vismaifood.com/storage/app/uploads/public/63a/cb5/158/thumb__1200_0_0_0_auto.jpg",
+        "rating":4
+    },{
+        "dishname": "egg biriyani",
+        "price":200,
+        "Foodimage":"https://vaya.in/recipes/wp-content/uploads/2018/03/Egg-Biriyani.jpg",
+        "rating":4
+    },{
+        "dishname": "veg biriyani",
+        "price":200,
+        "Foodimage":"https://www.indianveggiedelight.com/wp-content/uploads/2020/04/veg-biryani-instant-pot.jpg",
+        "rating":4
+    },
+{
+    "dishname": "mutton biriyani",
+        "price":290,
+        "Foodimage":"https://media.istockphoto.com/id/469866881/photo/mutton-gosht-biryani.jpg?s=612x612&w=0&k=20&c=FH6dExVNp_hb9JtJCyGrmKAhPJwQo3UdlMC6gHCbVLg=",
+        "rating":4
+},{
+    "dishname": "chicken bone soup",
+        "price":150,
+        "Foodimage":"https://theketoqueens.com/wp-content/uploads/2018/11/Chicken-Bone-Broth-Soup-with-Rotisserie-Chicken-or-Leftover-Turkey-1.jpg",
+        "rating":4
+},{
+    "dishname": "chicken clear soup",
+        "price":140,
+        "Foodimage":"https://static.toiimg.com/thumb/58357074.cms?imgsize=259099&width=800&height=800",
+        "rating":4
+},{
+    "dishname": "mutton soup",
+        "price":200,
+        "Foodimage":"https://theindianclaypot.com/content/images/wp-content/uploads/2019/02/mutton-soup.jpg",
+        "rating":4
+},{
+    "dishname": "crab rasam",
+        "price":200,
+        "Foodimage":"https://jopreetskitchen.com/wp-content/uploads/2014/02/Crab-Rasam-DSC_0019-vignette-678x1024.jpg",
+        "rating":5
+},
+{
+    "dishname": "icecream",
+        "price":100,
+        "Foodimage":"https://www.julieseatsandtreats.com/wp-content/uploads/2020/06/Rainbow-Ice-Cream-14-of-16.jpg",
+        "rating":4
+}],
+    "closingTime":"9.00 AM",
+    "openingTime":"9.00 PM"
+}]
